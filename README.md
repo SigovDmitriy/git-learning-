@@ -1,2 +1,2 @@
-# git-learning-
+# git-learning
 создан в учебных целях
