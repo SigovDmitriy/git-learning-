@@ -1,6 +1,6 @@
 {
   "name":"urfu/LastName",
-  "type":"project,
+  "type":"project",
   "description":"LabWork",
   "licence":"MIT",
   "autoload": {"psr-4": {
